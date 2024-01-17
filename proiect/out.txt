@@ -1,0 +1,33 @@
+8
+Numar Bilet - 111----------------------------Biletul a fost cumparat, va asteptam la eveniment!
+Pret - 200
+Eveniment - 100 - Concert Megadeath - METALHEAD
+
+Numar Bilet - 115----------------------------Biletul a fost cumparat, va asteptam la eveniment!
+Pret - 200
+Eveniment - 100 - Concert Megadeath - METALHEAD
+
+Numar Bilet - 112----------------------------Biletul a fost cumparat, va asteptam la eveniment!
+Pret - 150
+Eveniment - 101 - 10 Negrii Mititei - Teatru Odeon
+
+Numar Bilet - 116----------------------------Biletul a fost cumparat, va asteptam la eveniment!
+Pret - 150
+Eveniment - 101 - 10 Negrii Mititei - Teatru Odeon
+
+Numar Bilet - 117----------------------------Biletul a fost cumparat, va asteptam la eveniment!
+Pret - 150
+Eveniment - 101 - 10 Negrii Mititei - Teatru Odeon
+
+Numar Bilet - 113----------------------------Biletul a fost cumparat, va asteptam la eveniment!
+Pret - 375
+Eveniment - 102 - Concert Metalhead Meeting - METALHEAD
+
+Numar Bilet - 114----------------------------Biletul a fost cumparat, va asteptam la eveniment!
+Pret - 375
+Eveniment - 102 - Concert Metalhead Meeting - METALHEAD
+
+Numar Bilet - 118----------------------------Biletul a fost cumparat, va asteptam la eveniment!
+Pret - 400
+Eveniment - 104 - 2 Loturi - Teatru de Comedie
+
